@@ -50,7 +50,7 @@ Just having fun building stuff.
 </td>
 <td width="25%" align="center">
 <a href="https://github.com/lgubala/SpyCheck">
-<img src="https://raw.githubusercontent.com/lgubala/SpyCheck/refs/heads/main/assets/spycheck-icon-128.png" width="72" height="72" alt="SpyCheck icon"/>
+<img src="https://raw.githubusercontent.com/lgubala/SpyCheck/refs/heads/main/assets/spycheck-icon-128.png" width="72" height="72" style="object-fit:cover;border-radius:12px" alt="SpyCheck icon"/>
 </a>
 <br/><br/>
 <a href="https://github.com/lgubala/SpyCheck"><b>SpyCheck</b></a>
